@@ -139,10 +139,10 @@ GSBrowse doesn’t just list servers. It builds a **smart ecosystem** around the
 * Built to scale from 10 servers to 100,000+ with minimal latency
 
 Whether you're a solo server admin, a large gaming community, or a hosting provider – GSBrowse gives you **real control, visibility, and reputation management**.
+👉 Visit: [https://gsbrowse.com](https://gsbrowse.com) – Claim your server and experience the future of multiplayer discovery!
+
 
 ![Status](https://img.shields.io/badge/status-live-brightgreen)
 ![Built with](https://img.shields.io/badge/built%20with-React%20%2B%20Node-blue)
-![License](https://img.shields.io/badge/license-private-lightgrey)
 
 
-👉 Visit: [https://gsbrowse.com](https://gsbrowse.com) – Claim your server and experience the future of multiplayer discovery!
